@@ -1,0 +1,39 @@
+
+
+#form__cadastro {
+    width: 80%;
+    
+}
+
+#form__entradas {
+    display: flex;
+    flex-direction: column;
+}
+
+#form__entradas input, #form__entradas  {
+    margin-bottom: 12px;
+    padding: 8px;
+}
+
+#form__entradas button {
+    width: 200px;
+    padding: 8px;
+}
+
+.btn{
+    border-radius: 12px;
+}
+
+.fieldset__padrao {
+    border-radius: 8px;
+}
+
+.fieldset__padrao label {
+    font-size: 16px;
+   
+}
+
+.fieldset__padrao input, .fieldset__padrao  {
+    border-radius: 10px;
+}
+
